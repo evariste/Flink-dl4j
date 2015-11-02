@@ -1,0 +1,15 @@
+/Users/smarthi/opensourceprojects/java-deeplearning/deeplearning4j-scaleout/hadoop-yarn/deeplearning4j-nlp-yarn/src/main/java/org/deeplearning4j/models/word2vec/Word2VecPerformerFactory.java
+/Users/smarthi/opensourceprojects/java-deeplearning/deeplearning4j-scaleout/hadoop-yarn/deeplearning4j-nlp-yarn/src/main/java/org/deeplearning4j/models/word2vec/Word2VecJobAggregator.java
+/Users/smarthi/opensourceprojects/java-deeplearning/deeplearning4j-scaleout/hadoop-yarn/deeplearning4j-nlp-yarn/src/main/java/org/deeplearning4j/models/glove/GloveJobIterator.java
+/Users/smarthi/opensourceprojects/java-deeplearning/deeplearning4j-scaleout/hadoop-yarn/deeplearning4j-nlp-yarn/src/main/java/org/deeplearning4j/models/word2vec/Word2VecResult.java
+/Users/smarthi/opensourceprojects/java-deeplearning/deeplearning4j-scaleout/hadoop-yarn/deeplearning4j-nlp-yarn/src/main/java/org/deeplearning4j/models/glove/GloveJobAggregator.java
+/Users/smarthi/opensourceprojects/java-deeplearning/deeplearning4j-scaleout/hadoop-yarn/deeplearning4j-nlp-yarn/src/main/java/org/deeplearning4j/models/word2vec/Word2VecPerformer.java
+/Users/smarthi/opensourceprojects/java-deeplearning/deeplearning4j-scaleout/hadoop-yarn/deeplearning4j-nlp-yarn/src/main/java/org/deeplearning4j/models/glove/iterator/GloveJobIterator.java
+/Users/smarthi/opensourceprojects/java-deeplearning/deeplearning4j-scaleout/hadoop-yarn/deeplearning4j-nlp-yarn/src/main/java/org/deeplearning4j/models/word2vec/Word2VecWork.java
+/Users/smarthi/opensourceprojects/java-deeplearning/deeplearning4j-scaleout/hadoop-yarn/deeplearning4j-nlp-yarn/src/main/java/org/deeplearning4j/models/glove/GlovePerformerFactory.java
+/Users/smarthi/opensourceprojects/java-deeplearning/deeplearning4j-scaleout/hadoop-yarn/deeplearning4j-nlp-yarn/src/main/java/org/deeplearning4j/models/glove/GlovePerformer.java
+/Users/smarthi/opensourceprojects/java-deeplearning/deeplearning4j-scaleout/hadoop-yarn/deeplearning4j-nlp-yarn/src/main/java/org/deeplearning4j/hadoop/nlp/uima/AnalysisEngineHdfs.java
+/Users/smarthi/opensourceprojects/java-deeplearning/deeplearning4j-scaleout/hadoop-yarn/deeplearning4j-nlp-yarn/src/main/java/org/deeplearning4j/models/glove/GloveWork.java
+/Users/smarthi/opensourceprojects/java-deeplearning/deeplearning4j-scaleout/hadoop-yarn/deeplearning4j-nlp-yarn/src/main/java/org/deeplearning4j/hadoop/nlp/text/ConfigurableSentenceIterator.java
+/Users/smarthi/opensourceprojects/java-deeplearning/deeplearning4j-scaleout/hadoop-yarn/deeplearning4j-nlp-yarn/src/main/java/org/deeplearning4j/models/glove/GloveResult.java
+/Users/smarthi/opensourceprojects/java-deeplearning/deeplearning4j-scaleout/hadoop-yarn/deeplearning4j-nlp-yarn/src/main/java/org/deeplearning4j/models/word2vec/iterator/Word2VecJobIterator.java

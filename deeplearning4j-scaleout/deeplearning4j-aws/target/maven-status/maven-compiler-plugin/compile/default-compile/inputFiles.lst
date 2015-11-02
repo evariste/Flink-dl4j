@@ -1,0 +1,12 @@
+/Users/smarthi/opensourceprojects/java-deeplearning/deeplearning4j-scaleout/deeplearning4j-aws/src/main/java/org/deeplearning4j/aws/s3/modelsaver/S3ModelSaver.java
+/Users/smarthi/opensourceprojects/java-deeplearning/deeplearning4j-scaleout/deeplearning4j-aws/src/main/java/org/deeplearning4j/aws/s3/reader/BaseS3DataSetIterator.java
+/Users/smarthi/opensourceprojects/java-deeplearning/deeplearning4j-scaleout/deeplearning4j-aws/src/main/java/org/deeplearning4j/aws/s3/reader/S3Downloader.java
+/Users/smarthi/opensourceprojects/java-deeplearning/deeplearning4j-scaleout/deeplearning4j-aws/src/main/java/org/deeplearning4j/aws/ec2/provision/ClusterSetup.java
+/Users/smarthi/opensourceprojects/java-deeplearning/deeplearning4j-scaleout/deeplearning4j-aws/src/main/java/org/deeplearning4j/aws/s3/BaseS3.java
+/Users/smarthi/opensourceprojects/java-deeplearning/deeplearning4j-scaleout/deeplearning4j-aws/src/main/java/org/deeplearning4j/aws/s3/reader/BucketIterator.java
+/Users/smarthi/opensourceprojects/java-deeplearning/deeplearning4j-scaleout/deeplearning4j-aws/src/main/java/org/deeplearning4j/aws/s3/uploader/S3Uploader.java
+/Users/smarthi/opensourceprojects/java-deeplearning/deeplearning4j-scaleout/deeplearning4j-aws/src/main/java/org/deeplearning4j/aws/ec2/provision/DistributedDeepLearningTrainer.java
+/Users/smarthi/opensourceprojects/java-deeplearning/deeplearning4j-scaleout/deeplearning4j-aws/src/main/java/org/deeplearning4j/aws/dataset/DataSetLoader.java
+/Users/smarthi/opensourceprojects/java-deeplearning/deeplearning4j-scaleout/deeplearning4j-aws/src/main/java/org/deeplearning4j/aws/ec2/Ec2BoxCreator.java
+/Users/smarthi/opensourceprojects/java-deeplearning/deeplearning4j-scaleout/deeplearning4j-aws/src/main/java/org/deeplearning4j/aws/ec2/provision/HostProvisioner.java
+/Users/smarthi/opensourceprojects/java-deeplearning/deeplearning4j-scaleout/deeplearning4j-aws/src/main/java/org/deeplearning4j/aws/s3/reader/BucketKeyListener.java

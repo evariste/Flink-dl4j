@@ -1,0 +1,6 @@
+/Users/smarthi/opensourceprojects/java-deeplearning/deeplearning4j-scaleout/deeplearning4j-scaleout-zookeeper/src/main/java/org/deeplearning4j/scaleout/zookeeper/ZooKeeperConfigurationRegister.java
+/Users/smarthi/opensourceprojects/java-deeplearning/deeplearning4j-scaleout/deeplearning4j-scaleout-zookeeper/src/main/java/org/deeplearning4j/scaleout/zookeeper/ZookeeperPathBuilder.java
+/Users/smarthi/opensourceprojects/java-deeplearning/deeplearning4j-scaleout/deeplearning4j-scaleout-zookeeper/src/main/java/org/deeplearning4j/scaleout/zookeeper/ZooKeeperRunner.java
+/Users/smarthi/opensourceprojects/java-deeplearning/deeplearning4j-scaleout/deeplearning4j-scaleout-zookeeper/src/main/java/org/deeplearning4j/scaleout/zookeeper/ZookeeperBuilder.java
+/Users/smarthi/opensourceprojects/java-deeplearning/deeplearning4j-scaleout/deeplearning4j-scaleout-zookeeper/src/main/java/org/deeplearning4j/scaleout/zookeeper/utils/ZkUtils.java
+/Users/smarthi/opensourceprojects/java-deeplearning/deeplearning4j-scaleout/deeplearning4j-scaleout-zookeeper/src/main/java/org/deeplearning4j/scaleout/zookeeper/ZookeeperConfigurationRetriever.java

@@ -1,0 +1,14 @@
+org/deeplearning4j/aws/s3/uploader/S3Uploader.class
+org/deeplearning4j/aws/s3/reader/BucketIterator.class
+org/deeplearning4j/aws/s3/reader/BaseS3DataSetIterator.class
+org/deeplearning4j/aws/s3/reader/S3Downloader.class
+org/deeplearning4j/aws/s3/modelsaver/S3ModelSaver.class
+org/deeplearning4j/aws/s3/BaseS3.class
+org/deeplearning4j/aws/ec2/provision/ClusterSetup.class
+org/deeplearning4j/aws/dataset/DataSetLoader.class
+org/deeplearning4j/aws/s3/reader/BucketKeyListener.class
+org/deeplearning4j/aws/ec2/provision/ClusterSetup$2.class
+org/deeplearning4j/aws/ec2/provision/HostProvisioner.class
+org/deeplearning4j/aws/ec2/Ec2BoxCreator.class
+org/deeplearning4j/aws/ec2/provision/ClusterSetup$1.class
+org/deeplearning4j/aws/ec2/provision/DistributedDeepLearningTrainer.class

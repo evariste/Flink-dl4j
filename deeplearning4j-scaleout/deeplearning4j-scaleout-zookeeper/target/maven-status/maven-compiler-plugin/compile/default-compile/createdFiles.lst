@@ -1,0 +1,6 @@
+org/deeplearning4j/scaleout/zookeeper/ZooKeeperRunner.class
+org/deeplearning4j/scaleout/zookeeper/ZooKeeperConfigurationRegister.class
+org/deeplearning4j/scaleout/zookeeper/ZookeeperBuilder.class
+org/deeplearning4j/scaleout/zookeeper/ZookeeperConfigurationRetriever.class
+org/deeplearning4j/scaleout/zookeeper/utils/ZkUtils.class
+org/deeplearning4j/scaleout/zookeeper/ZookeeperPathBuilder.class
